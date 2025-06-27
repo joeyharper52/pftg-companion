@@ -75,7 +75,21 @@ section h2 {
   border: 1px solid #444;
   border-radius: 8px;
 }
+.citation, .license {
+  background-color: #111;
+  color: #ccc;
+  padding: 1.5em;
+  margin: 2em 0;
+  border-left: 4px solid #f90;
+}
 
+pre {
+  background-color: #222;
+  color: #0f0;
+  padding: 1em;
+  overflow-x: auto;
+  font-size: 0.9em;
+}
 footer {
   text-align: center;
   padding: 15px;
