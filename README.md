@@ -1,52 +1,49 @@
-# 🌌 PFTG Companion Site
+🌌 PFTG & FIRE-G Companion
 
-A visual and conceptual companion to the **Pressure-Field Theory of Gravity (PFTG)** and its earlier formulation, **FIRE-G**. This site explains the evolution of the theory, illustrates its foundations, and showcases key predictions, interactive visuals, and core equations.
+A visual and conceptual companion to the Pressure-Field Theory of Gravity (PFTG) and its parallel framework FIRE-G. This site illustrates the evolution of both paths, explains their foundations, and showcases key diagrams, predictions, and core ideas — bridging rigorous physics with an accessible narrative.
 
----
+⸻
 
-## 🔭 Purpose
+🔭 Purpose
 
-This repository hosts a lightweight, dark-themed visual guide to the PFTG framework:
-- 📘 Introduces the transition from **FIRE-G** (Field-Induced Radiant Energy Gravity) to full **PFTG**
-- 📊 Includes diagrams showing scalar field modes, energy densities, and soliton analogs
-- 🌐 Links back to the full technical papers and Zenodo records
-- 🧠 Offers simplified public explanations alongside rigorous foundations
+This repository provides a dark-themed, lightweight visual guide that complements the full technical papers and Zenodo records:
+	•	🌀 PFTG explores gravity and interactions through scalar pressure gradients in flat spacetime, offering testable and practical approaches.
+	•	🔥 FIRE-G reinterprets gravity and gauge forces via entropy gradients in curved spacetime, leading to a bold fully unified TOE vision.
+	•	📊 Includes figures for soliton wave packets, scalar field modes, entropy knots, and energy densities.
+	•	🌐 Links directly to Zenodo releases, GitHub codebases, and full PDFs.
+	•	🧠 Designed to be accessible to curious readers while retaining scientific depth.
 
----
+⸻
 
-## 🔗 Related Projects
+🔗 Related Projects
+	•	🌀 PFTG-TOE Zenodo Release
+	•	🔥 FIRE-G Zenodo Release
+	•	📘 PFTG-MinimalRelic v2.0
+	•	🔧 GitHub: FIRE-G
+	•	🔭 Main Personal Companion Site
 
-- 🔬 [Main PFTG GitHub Repo](https://github.com/joeyharper52/PFTG-TOE)
-- 📄 [Zenodo Publication (v1.0.0)](https://doi.org/10.5281/zenodo.15734166)
+⸻
 
----
+🧪 What’s Inside
+	•	index.html — Fully structured landing page with clear sections (Why These Theories, Timeline, Visual Summaries, Glossary, Abstract, Next Steps).
+	•	style.css — Modern dark theme styling.
+	•	README.md — This file, overview and citation guide.
+	•	PNG diagrams and supporting images matching referenced Zenodo files.
 
-## 🧪 What's Inside
+⸻
 
-- `index.html` – Landing page with scrollable layout and visual explanations
-- `style.css` – Dark theme stylesheet
-- `README.md` – This file
-
----
-
-## 🧠 Author
-
-**Joey Harper**  
-Independent Researcher | Mechanic & Field Theorist  
-🔗 [GitHub Profile](https://github.com/joeyharper52)
-
----
+🧠 Author
 
 ## 📜 Citation
 
 If referencing this work or its companion material:
 
 ```bibtex
-@software{harper2025pftg,
-  author    = {Joey Harper},
-  title     = {The Pressure-Field Theory of Gravity (PFTG)},
+@article{harper2025pftg,
+  title     = {The Pressure-Field Theory of Gravity: Toward a Field-Based Theory of Everything},
+  author    = {Harper, Joey},
   year      = {2025},
-  version   = {v1.0.0},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.15734166}
+  doi       = {10.5281/zenodo.15765687},
+  url       = {https://doi.org/10.5281/zenodo.15765687}
 }
